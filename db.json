@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,33 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "name": "Cholula Burger",
+      "description": "What a Good Burger!",
+      "image": "https://i.pinimg.com/474x/87/2b/ee/872bee1771a90ae012504ac9b160f6df.jpg",
+      "id": 15
+    },
+    {
+      "name": "Kid Burger",
+      "description": "What a Good Burger?",
+      "image": "https://www.polloregio.com/wp-content/uploads/2018/05/Kid-Burger.png",
+      "id": 16
+    },
+    {
+      "name": "Big Burger",
+      "description": "What a Good Burger!",
+      "image": "https://i.pinimg.com/originals/c7/b0/e9/c7b0e95209da5a0492edcd35cc52e555.jpg",
+      "id": 17
     }
   ]
 }
